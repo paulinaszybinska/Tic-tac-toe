@@ -9,4 +9,4 @@ I wanted to get to know and learn the concept of creating this type of app, but 
 ### [Play the game here](https://paulinaszybinska.github.io/Tic-tac-toe/)
 
 ## Sources
-This app is inspired by Piotr Fijałkiewicz||Samuraj Programowania tutorial „Gra Kółko i krzyżyk w JavaScript”. (https://youtu.be/ZQq5HybEboo)
+This app was based on [this tutorial](https://youtu.be/ZQq5HybEboo).
